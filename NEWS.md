@@ -1,3 +1,7 @@
+# SVP 1.5.2
+
++ add citation information. (2026-11-17, Tue)
+
 # SVP 1.5.1
 
 + add p-value multiple correction for `runGLOBALBV`, `runLISA` and `runLOCALBV`. (2026-08-18, Tue)
